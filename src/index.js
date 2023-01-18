@@ -6,3 +6,5 @@ ReactDOM.render(<App/> , document.getElementById('root')
     )
 
     // server Connected: 15:51
+
+    // connected to express server: 18:40
