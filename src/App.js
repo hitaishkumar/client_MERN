@@ -4,11 +4,12 @@ import memories from './images/memories.png'
 import Posts from './components/Posts/Posts'
 import Form from './components/Form/Form'
 const App = () => {
+
   return (
     <Container maxwidth = "lg">
       <AppBar position="static" color = 'inherit'>
-      <Typography variant ='h2' align = 'center'>Memories</Typography>
-      <img src={memories} alt="memories" heigth = '60' />
+          <Typography  variant ='h2' align = 'center'>Memories</Typography>
+          <img  src={memories} alt="memories" height="500" />
       </AppBar>
       <Grow in>
         <Container>
