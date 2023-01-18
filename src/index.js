@@ -8,3 +8,5 @@ ReactDOM.render(<App/> , document.getElementById('root')
     // server Connected: 15:51
 
     // connected to express server: 18:40
+
+    // Post and Get method code done: 28:58
