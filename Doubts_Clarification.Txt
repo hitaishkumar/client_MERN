@@ -1,0 +1,7 @@
+Since I am using React 18, 
+material-ui/styles have been deprecated and hence,
+ -> I cannot use the Makestyles Hook,
+    Solution to this is to just Inline Style the Components,
+    (AppBar, Image, Posts ,Post)
+
+ -> Solution Found In :https://stackoverflow.com/questions/71948818/no-result-using-makestyles-material-ui-in-react-18
